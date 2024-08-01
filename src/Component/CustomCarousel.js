@@ -7,7 +7,8 @@ const windowWidth = Dimensions.get('window').width;
 const imageList = [
     { image: require('../assets/Rectangle6.png'), discout: '20%' },
     { image: require('../assets/Rectangle6.png'), discout: '30%' },
-    { image: require('../assets/Rectangle6.png'), discout: '40%' }
+    { image: require('../assets/Rectangle6.png'), discout: '40%' },
+    { image: require('../assets/Rectangle6.png'), discout: '40%' },
 ];
 
 const CustomCarousel = () => {
