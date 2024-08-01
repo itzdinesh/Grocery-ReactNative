@@ -13,17 +13,17 @@ import { NavigationContainer } from '@react-navigation/native';
 
 const App = () => {
   return (
-   
+
     <NavigationContainer>
-      
-    <SafeAreaView style={{ flex: 1 }}>
-      <View style={{ flex: 1 }} >
-    
-        <Tabs/>
-      </View>
-    </SafeAreaView>
+
+      <SafeAreaView style={{ flex: 1 }}>
+        <View style={{ flex: 1 }} >
+
+          <Tabs />
+        </View>
+      </SafeAreaView>
     </NavigationContainer>
-    
+
 
   );
 }
